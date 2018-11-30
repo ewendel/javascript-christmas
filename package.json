@@ -1,5 +1,5 @@
 {
-  "name": "react-christmas",
+  "name": "javascript-christmas",
   "license": "MIT",
   "scripts": {
     "dev": "node server.js",
