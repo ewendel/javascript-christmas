@@ -6,12 +6,8 @@ To run a development server, run `yarn dev`.
 
 ## Deployment
 
-Deploy with `yarn deploy`.
-
-## Create your own!
-
-Fork this project, and change the stuff in `./config.js` to get started. If you find any more React-specific after that,
-please submit a pull request that moves those texts etc into `./config.js`.
+Pushing to master should trigger a new deploy.
+If your changes aren't deployed automatically after pushing, you can deploy manually with `yarn deploy`.
 
 ## Write content
 
@@ -58,11 +54,6 @@ image: https://avatars1.githubusercontent.com/u/1307267?s=460&v=4
 
 Note that the mapping between the author's name and this file name is brittle af, so try to have a normal name, without
 any dashes or dots or whatever.
-
-## Hacker mode!
-
-If you want to show all articles, regardless of the date, you can
-add `?mode=hacker` to the URL. That will let you access all articles.
 
 ## Questions?
 
